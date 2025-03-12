@@ -12,6 +12,9 @@
 -->
 ### WEHI Research Computing Platform (RCP)
 
-We are a group of software engineers with a broad experience in different research fields and computational sciences. Our objective is to support WEHI's strategic plans by investing and building new capabilities in computational research and data analytics. We collaborate with researchers to help them get their computational research running on WEHI infrastructure or, where appropriate on external resources such as commercial and research clouds, and local and national facilities. 
+[WEHI](https://www.wehi.edu.au/), previously known as the Walter and Eliza Hall Institute of Medical Research, and as the Walter and Eliza Hall Institute, is Australia's oldest medical research institute.
+Situated within WEHI’s Bioinformatics and Computational Biology Division, the Research Computing Platform is a team of experts in software engineering, high performance computing, bioinformatics, AI, biomechanics and data engineering. This platform plays a pivotal role in developing cutting-edge tools and pipelines that not only optimize research workflows but also accelerate the delivery of scientific insights.
+
+Our objective is to support WEHI's strategic plans by investing and building new capabilities in computational research and data analytics. We collaborate with researchers to help them get their computational research running on WEHI infrastructure or, where appropriate on external resources such as commercial and research clouds, and local and national facilities. 
 
 We are **research software engineers**, **passionate** about finding optimised, reproducible, efficient solutions to researchers computational problems.
